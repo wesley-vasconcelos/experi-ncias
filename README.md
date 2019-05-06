@@ -1,2 +1,2 @@
-# experincias
+experiências
 estudos/trabalhos
